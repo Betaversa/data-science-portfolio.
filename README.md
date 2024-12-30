@@ -1,5 +1,3 @@
-# data-science-portfolio.
-Portafolio de proyectos y competencias de Data Science.
 # Portafolio de Data Science
 
 Bienvenido a mi portafolio de Data Science. Aquí presento mi trabajo en competencias de Kaggle y proyectos personales que demuestran mis habilidades en análisis de datos, Machine Learning y visualización.
@@ -16,9 +14,6 @@ Bienvenido a mi portafolio de Data Science. Aquí presento mi trabajo en compete
 - **Bibliotecas:** pandas, NumPy, scikit-learn, matplotlib, seaborn
 - **Herramientas:** Jupyter Notebook, GitHub, Kaggle
 
-## Sobre Mí
-Soy un aspirante a Data Scientist con experiencia en análisis de datos y modelado predictivo. Mi objetivo es resolver problemas empresariales usando datos para generar impacto.
-
-## Contacto
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Kaggle](https://kaggle.com/tu-usuario)
+## Mis Redes
+- **LinkedIn:** [Roberto Barragán Ávila](https://www.linkedin.com/in/roberto-barragan-avila-data-science-for-business-a2b26a198)
+- **Kaggle:** [Roberto Barragán en Kaggle](https://www.kaggle.com/robertbarra)
